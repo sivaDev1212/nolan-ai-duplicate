@@ -1,5 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import 'primeflex/primeflex.css';
+
+import "primereact/resources/themes/lara-light-cyan/theme.css";
+
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
